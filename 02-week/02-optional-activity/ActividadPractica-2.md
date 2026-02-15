@@ -17,11 +17,11 @@ Cada índice corresponde a un día cronológico de ventas en la tienda principal
 ## 2. Matriz (Distribución de Stock por Color y Sucursal)
 Esta matriz de **3x3** organiza el stock del **Smartphone**, pero dividido por **Color** (filas) y **Sucursal** (columnas).
 
-**Definición:** `stockPorColor = [
-   # Fila 0: Smartphones Color Negro [50, 30, 20]  
-   # Fila 1: Smartphones Color Plata [15, 25, 40]  
-   # Fila 2: Smartphones Color Azul [10, 10, 12]   
-]`
+**Definición:** `stockPorColor = 
+   **Fila 0: Smartphones Color Negro** [50, 30, 20]  
+   **Fila 1: Smartphones Color Plata** [15, 25, 40]  
+   **Fila 2: Smartphones Color Azul** [10, 10, 12]   
+
 
 **¿Qué representa cada fila?**
 Cada fila segmenta el inventario total del modelo según su presentación comercial:
