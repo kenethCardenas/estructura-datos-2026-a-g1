@@ -1,3 +1,4 @@
+### Actividad 2 sobre Array y tipo de datos
 ## 1. Array Unidimensional (Ventas semanales)
 Este array registra la cantidad de **Smartphones** vendidos en una tienda durante la última semana laboral.
 
