@@ -1,12 +1,13 @@
 #  Análisis de eficiencia de algoritmos
 
-## Algoritmo A
+Algoritmo A
 
 ```java
 for (int i = 0; i < n; i++) {
     System.out.println(i);
 }
-## Algoritmo B
+
+Algoritmo B
 java
 for (int i = 0; i < n; i++) {
     for (int j = 0; j < n; j++) {
